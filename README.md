@@ -31,7 +31,7 @@
 ## 🌐 Conecte-se comigo
 
 🔹 Email: **cosmebrayan07@gmail.com**  
-🔹 Github: [github.com/brayancosme](https://github.com/brayancosme)
+🔹 Github: [github.com/BrayanXz](https://github.com/BrayanXz)
 
 ---
 
