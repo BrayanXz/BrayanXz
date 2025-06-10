@@ -1,40 +1,41 @@
-<h1 align="center">👋 Olá, eu sou o Brayan Cosme!</h1>
+<h1 align="center" style="color:#0ff;">⚡ Brayan Cosme ⚡</h1>
 
 <p align="center">
-  🚀 Suporte Técnico em Provedor de Internet • 🎓 Estudante de Redes de Computadores <br>
-  💻 Apaixonado por Programação • ⚽ Fã de Futebol • 🎮 Amante de Jogos <br>
-  📍 Brasil
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Suporte+T%C3%A9cnico+em+TI;Apaixonado+por+Programar;Estudante+de+Redes;Futebol+%26+Jogos+de+PC" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 Sobre mim
 
-Sou o **Brayan Cosme**, trabalho como **Suporte Técnico em um provedor de internet** e estou sempre em busca de aprender mais sobre tecnologia. Estudo **Redes de Computadores** e sou completamente apaixonado por **programação**, explorando todas as linguagens possíveis!
-
-Além do mundo tech, também sou fã de **futebol** e **jogos de computador**, sempre buscando um equilíbrio entre trabalho, estudo e diversão. 😄
-
----
-
-## 💡 Tecnologias e Ferramentas
-
-Aqui estão algumas tecnologias e ferramentas que utilizo ou estou estudando:
-
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+🧍‍♂️ Me chamo **Brayan Cosme**, brasileiro, entusiasta de tecnologia e sempre curioso por tudo que envolve redes, internet e programação.  
+💼 Trabalho com **Suporte Técnico em provedor de internet**.  
+🎓 Estudo **Redes de Computadores**.  
+💻 Amo **programar em qualquer linguagem** — gosto do desafio!  
+⚽ Também sou viciado em **futebol** e 🎮 **jogos de computador**.
 
 ---
 
-## 📫 Fale comigo
+## 🛠️ Tecnologias & Ferramentas
 
-- ✉️ Email: **cosmebrayan07@gmail.com**
+![Python](https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-00f7ff?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00f7ff?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00f7ff?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-00f7ff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00f7ff?style=for-the-badge&logo=git&logoColor=black)
 
 ---
 
-> “A tecnologia move o mundo.” – Steve Jobs
+## 🌐 Conecte-se comigo
 
+🔹 Email: **cosmebrayan07@gmail.com**  
+🔹 Github: [github.com/brayancosme](https://github.com/brayancosme)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <em>"Programar é transformar pensamento em código, e código em futuro."</em>
+</p>
