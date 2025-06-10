@@ -36,7 +36,8 @@
 ---
 
 <p align="center">
-  <em>"Programar é transformar pensamento em código, e código em futuro."</em>
-  <em>“A tecnologia move o mundo.” – Steve Jobs</em>
-  
+  <em>"Programar é transformar pensamento em código, e código em futuro."</em>  
+</p>
+<p align="center">
+<em>“A tecnologia move o mundo.” – Steve Jobs</em>
 </p>
