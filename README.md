@@ -30,15 +30,6 @@ Aqui estão algumas tecnologias e ferramentas que utilizo ou estou estudando:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brayancosme&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayancosme&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
 ## 📫 Fale comigo
 
 - ✉️ Email: **cosmebrayan07@gmail.com**
